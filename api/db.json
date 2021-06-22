@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "Stream 1",
+      "description": "test 1",
+      "id": 1
+    },
+    {
+      "title": "Stream 1",
+      "description": "test 1",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "test 3",
+      "id": 3
+    },
+    {
+      "title": "history test 2",
+      "description": "programmatic navigation2",
+      "id": 6
+    }
+  ]
+}
